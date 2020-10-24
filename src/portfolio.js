@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Harsh",
   subTitle: emoji("A Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Java / Android and some other cool libraries and frameworks"),
-  resumeLink: "https://drive.google.com/open?id=18N7YJZ-Z46rXlVDwb8zTWvFSIFr0kYML"
+  resumeLink: "https://drive.google.com/file/d/17fPS2sskO_W-tkCum_dYF_f7y20iXK5D/view?usp=sharing"
 };
 
 // Your Social Media Link
